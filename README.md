@@ -1,29 +1,19 @@
-# weather-app
+# Weather App
 
-## Project setup
-```
-yarn install
-```
+# Tasks
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* [ ] Generate Vue app with CLI
+  * [ ] Start App
+* [ ] Add Bootstrap CDN
+* [ ] Add navbar with title
+* [ ] Signup for DarkSky API
+  * [ ] Get API Key
+* [ ] Create API module
+  * [ ] Create function to call API with hard coded lat long
+* [ ] Call API in mounted method of component
+* [ ] Add current weather to page
+* [ ] Add skyicons
+  * [ ] Show icons for current forecast
+* [ ] Allow user to enter location
+  * [ ] Geocode location to lat long
+  * [ ] Update weather on page
