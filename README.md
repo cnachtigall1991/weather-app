@@ -1,5 +1,11 @@
 # Weather App
 
+* Go to weather-app
+* Start the local server with '$yarn serve'
+
+* Build the project with '$yarn build'
+* Go to weather-app/dist and run '$yarn serve'
+
 # Tasks
 
 * [x] Generate Vue app with CLI
