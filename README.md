@@ -6,7 +6,7 @@
 * Build the project with `$yarn build`
 * Go to weather-app/dist and run `$yarn serve`
 
-![alt weather-app-img]()
+![alt weather-app-img](https://github.com/cnachtigall1991/weather-app/blob/master/weather-app.png)
 
 # Tasks
 
