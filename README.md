@@ -1,10 +1,12 @@
 # Weather App
 
 * Go to weather-app
-* Start the local server with '$yarn serve'
+* Start the local server with `$yarn serve`
 
-* Build the project with '$yarn build'
-* Go to weather-app/dist and run '$yarn serve'
+* Build the project with `$yarn build`
+* Go to weather-app/dist and run `$yarn serve`
+
+![alt weather-app-img]()
 
 # Tasks
 
