@@ -5,15 +5,18 @@
 * [x] Generate Vue app with CLI
   * [x] Start App
 * [x] Add Bootstrap CDN
-* [ ] Add navbar with title
-* [ ] Signup for DarkSky API
-  * [ ] Get API Key
-* [ ] Create API module
-  * [ ] Create function to call API with hard coded lat long
-* [ ] Call API in mounted method of component
-* [ ] Add current weather to page
-* [ ] Add skyicons
-  * [ ] Show icons for current forecast
-* [ ] Allow user to enter location
-  * [ ] Geocode location to lat long
-  * [ ] Update weather on page
+* [x] Add navbar with title
+* [x] Signup for DarkSky API
+  * [x] Get API Key
+* [x] Create API module
+  * [x] Create function to call API with hard coded lat long
+* [x] Call API in mounted method of component
+* [x] Add current weather to page
+<!-- * [ ] Add skycons
+  * [ ] Show icons for current forecast -->
+* [x] Allow user to enter location
+  * [x] Geocode location to lat long
+  * [x] Update weather on page
+<!-- * [ ] Show upcoming forecast -->
+* [x] Show location name
+* [x] Add weather map to page
